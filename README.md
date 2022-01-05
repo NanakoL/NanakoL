@@ -8,5 +8,3 @@
 NanakoL/NanakoL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-@OSSDAO-ORG•AIRDROP-0xc9dCf6ccCd9648C1e742dF725Ba314d70b5e1d33
